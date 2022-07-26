@@ -18,6 +18,7 @@ body
     background-size: cover;
     background-attachment: fixed;
 }
+
 main
 {
     position: relative;
@@ -38,7 +39,16 @@ section#telefone /*Phone in the middle*/
     
 }
 
+iframe#tela
+{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
+}
+
 section#redes-sociais
 {
-
+    
 }
